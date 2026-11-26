@@ -1,1 +1,1 @@
-echo "Hello from Jenkins"
+echo "Hello from Jenkins Webhook"
